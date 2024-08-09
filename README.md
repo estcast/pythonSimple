@@ -28,4 +28,9 @@ Are you familiar with Java and Selenium? This project is a great way to get star
 - Test2 uses `webdriver_manager` to automatically download the appropriate driver for each test. Test1 uses the `chromedriver.exe` file.
 - This project is still under development, and additional improvements will be made in the future.
 
+## Licencse
+MIT License
+
+Copyright (c) 2024 Esteban Castro U.
+
 
